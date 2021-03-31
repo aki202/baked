@@ -1,3 +1,1 @@
 baked
-=====
-http://bakedcms.org/
